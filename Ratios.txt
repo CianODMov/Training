@@ -1,0 +1,106 @@
+Men:
+60 to 100 ratio for sub 6.9 60m runners:
+Sample size: 483
+1.5426236061004635
+ 
+60 to 100 ratio for sub 7.3 60m runners:
+Sample size: 1904
+1.543016690106756
+ 
+60 to 100 ratio for sub 10.5 100m runners:
+Sample size: 313
+1.5255033245397733
+ 
+60 to 100 ratio for 10.5-11.0 100m runners:
+Sample size: 1040
+1.5351492192909162
+ 
+100 to 200 ratio for sub 11 100m runners:
+Sample size: 1482
+2.0383491759543073
+ 
+100 to 200 ratio for sub 10.5 100m runners:
+Sample size: 323
+2.043692822911766
+ 
+100 to 200 ratio for sub 22 200m runners:
+Sample size: 978
+2.013459197047925
+ 
+100 to 200 ratio for sub 21 200m runners:
+Sample size: 175
+2.0050266603472653
+ 
+200 to 400 ratio for sub 22 200m runners:
+Sample size: 433
+2.2740465536741197
+ 
+200 to 400 ratio for sub 50 400m runners:
+Sample size: 864
+2.195865933848163
+ 
+100 to 400 ratio for sub 47.5 400m runners:
+Sample size: 92
+4.333637776037174
+ 
+100 to 400 ratio for sub 49 400m runners:
+Sample size: 361
+4.3664112724623445
+ 
+200 to 400 ratio for 50-54 400m runners:
+Sample size: 858
+2.248651590249568
+ 
+100 to 300 ratio for all:
+Sample size: 693
+3.2199680973382656
+ 
+200 to 300 ratio for all:
+Sample size: 796
+1.5996655771920376
+ 
+400 to 300 ratio for all:
+Sample size: 547
+1.3931753375241178
+ 
+___________________________________________________________
+Women:
+60 to 100 ratio for sub 7.6 60m runners:
+Sample size: 202
+1.559452886730163
+ 
+60 to 100 ratio for sub 12 100m runners:
+Sample size: 373
+1.543229573779986
+ 
+100 to 200 ratio for sub 12 100m runners:
+Sample size: 415
+2.065993908829798
+ 
+100 to 200 ratio for sub 24 200m runners:
+Sample size: 169
+2.022847596516141
+ 
+200 to 400 ratio for sub 24 200m runners:
+Sample size: 93
+2.2876451149919044
+ 
+200 to 400 ratio for sub 55 400m runners:
+Sample size: 206
+2.2160294265982636
+ 
+100 to 400 ratio for sub 55 400m runners:
+Sample size: 127
+4.4720944779446565
+ 
+100 to 300 ratio for all:
+Sample size: 1206
+3.290829270839675
+ 
+200 to 300 ratio for all:
+Sample size: 1547
+1.6053123325617216
+ 
+400 to 300 ratio for all:
+Sample size: 722
+1.4229337351600768
